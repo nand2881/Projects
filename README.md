@@ -1,1 +1,1 @@
-# Projects
+This project analyses how the various ciphers are built and used in the networking systems,security measures and the manner in which these messages are encrypted and decrypted using arithmetic modulo along with conceptual Number Theory.
